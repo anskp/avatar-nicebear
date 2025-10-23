@@ -1,0 +1,5 @@
+{
+  "name": "SVG Character Customizer",
+  "description": "A web application to create and customize SVG characters in real-time using the DiceBear library. Users can select various traits, randomize their avatar, and export the final creation as an SVG file.",
+  "requestFramePermissions": []
+}
